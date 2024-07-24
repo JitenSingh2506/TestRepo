@@ -1,4 +1,4 @@
 # TestRepo
 Testing Repo
 <br>
-By: Jitendra Singh
+By: Jitendra Singh Solanki
